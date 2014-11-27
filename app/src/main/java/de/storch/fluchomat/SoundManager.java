@@ -1,10 +1,10 @@
 package de.storch.fluchomat;
 
-import java.util.HashMap;
-
 import android.content.Context;
 import android.media.AudioManager;
 import android.media.SoundPool;
+
+import java.util.HashMap;
 
 public class SoundManager {
 	private SoundPool mSoundPool;
